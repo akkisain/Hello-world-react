@@ -3,7 +3,7 @@
 node version : 14.2.0
 
 clone the code from github using
-`git clone https://github.com/coolgourav147/hello-world-react.git`
+`git clone https://github.com/akkisain/hello-world-react.git`
 
 install node lib using: `npm install`
 
